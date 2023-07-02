@@ -112,7 +112,7 @@ It's not generally recommended to store any type of token keys to any key servic
 
 <img src="./demo/security.png" alt="drawing" width="550"/>
 
-- But for simplicity and getting this done on time, I'm not concerned about it solely for this interview project.
+But for simplicity and getting this done on time, I'm not concerned about it solely for this interview project.
 
 ## Errors
 
