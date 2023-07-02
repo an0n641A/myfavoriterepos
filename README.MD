@@ -80,7 +80,7 @@ or use the shortcut `Shift + Cmd + K `
 
 # How The App Works
 
-The home page displays currently favorite repos. This will be blank initially. To add repos, tap the search text input. Should bring up a modal for search purposes, it is here where you can search a given term . Once the `Search` button is is hit on the virtual keyboard (or a suggested search term is tapped), it should navigate to the search results page. It is here where you can simply tao the `favorite star` (which will appear white if not chosen yet). Upon pressing/tapping the star, it should turn yellow to indicate it has been added to your favorites. This can be further verified by browsing back to the home page, where your chosen favorite repos will be displayed. You can remove repos on the home page or the results page, by simply touching/tapping the yellow stars for each respective repo.
+The home page displays currently favorite repos. This will be blank initially (or rather you should be greeted by Octocat). To add repos, tap the search text input. Should bring up a modal for search purposes, it is here where you can search a given term . Once the `Search` button is is hit on the virtual keyboard (or a suggested search term is tapped), it should navigate to the search results page. It is here where you can simply tap the large `favorite star` (which will appear white if not chosen yet). Upon pressing/tapping the star, it should turn yellow to indicate it has been added to your favorites. This can be further verified by browsing back to the home page, where your chosen favorite repos will be displayed. You can remove repos on the home page or the results page, by simply touching/tapping the yellow stars for each respective repo.
 
 # Reasoning and Justifications
 
