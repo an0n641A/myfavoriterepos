@@ -110,7 +110,7 @@ The project structure can be very subjective, but my approach reasoned based on 
 
 It's not generally recommended to store any type of token keys to any key services in a React app, so this isn't good practice. Potentially a malicious user could do all sorts of malicious things with the token, such as obtaining sensitive data or running up server usage and costs for nefarious purposes. Usually you'd want the token/key stored in some backend service, where users don't have any sort of access e.g.
 
-![diagram for safe token handling](https://i.imgur.com/eewVzQO.png)
+<img src="./demo/security.png" alt="drawing" width="550"/>
 
 - But for simplicity and getting this done on time, I'm not concerned about it solely for this interview project.
 
