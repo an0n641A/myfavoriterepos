@@ -1,9 +1,6 @@
 # Favorite Repos
 
-<img src="./demo/demo1.png" alt="drawing" width="150"/>
-<img src="./demo/demo2.png" alt="drawing" width="150"/>
-<img src="./demo/demo3.png" alt="drawing" width="150"/>
-<img src="./demo/demo4.png" alt="drawing" width="150"/>
+<img src="./demo/demo1.png" alt="drawing" width="150"/> <img src="./demo/demo2.png" alt="drawing" width="150"/> <img src="./demo/demo3.png" alt="drawing" width="150"/> <img src="./demo/demo4.png" alt="drawing" width="150"/>
 
 $~$
 
